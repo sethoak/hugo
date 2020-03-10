@@ -40,6 +40,11 @@ disqusShortname = "sethoak"
     weight = 1
     url = "https://github.com/sethoak"
 
+    [[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    weight = 4
+    url = "https://www.linkedin.com/in/seth-oakley-864b6888/"
 # Menu links
 [[menu.main]]
     name = "GitHub"
