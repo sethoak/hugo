@@ -1,5 +1,5 @@
-baseurl = "http://www.sethoakley.com"
-title = "Web Developer - Seth Oakley"
+baseurl = "https://www.sethoakley.com"
+title = "Full Stack Developer - Seth Oakley"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -15,7 +15,7 @@ disqusShortname = "sethoak"
 
 [params]
     author = "Seth Oakley"
-    info = "Full Stack Developer"
+    info = ".Net | C# | JS | CMS | React | SQL"
     description = "Seth Oakley's personal website"
     keywords = "developer,personal,blog"
     avatarurl = "normal_small.jpg"
@@ -23,7 +23,7 @@ disqusShortname = "sethoak"
     favicon_32 = "favicon-32x32.png"
     favicon_16 = "favicon-16x16.png"
 
-    footercontent = ".Net | C# | JS | CMS | UI/UX | ADA | Adobe Suite"
+    footercontent = "Get In Touch"
 
     hidecredits = true
     hidecopyright = false
