@@ -18,14 +18,14 @@ disqusShortname = "sethoak"
     info = "Full Stack Developer"
     description = "Seth Oakley's personal website"
     keywords = "developer,personal,blog"
-    avatarurl = "images/normal_small.jpg"
+    avatarurl = "normal_small.jpg"
 
-    favicon_32 = "/img/favicon-32x32.png"
-    favicon_16 = "/img/favicon-16x16.png"
+    favicon_32 = "favicon-32x32.png"
+    favicon_16 = "favicon-16x16.png"
 
-    footercontent = "Footer"
+    footercontent = ".Net | C# | JS | CMS | UI/UX | ADA | Adobe Suite"
 
-    hidecredits = false
+    hidecredits = true
     hidecopyright = false
 
     rtl = false
@@ -39,23 +39,13 @@ disqusShortname = "sethoak"
     icon = "fab fa-github fa-2x"
     weight = 1
     url = "https://github.com/sethoak"
-[[params.social]]
-    name = "Gitlab"
-    icon = "fab fa-gitlab fa-2x"
-    weight = 2
-    url = "https://gitlab.com/johndoe/"
-[[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter fa-2x"
-    weight = 3
-    url = "https://twitter.com/johndoe/"
 
 # Menu links
 [[menu.main]]
-    name = "Blog"
+    name = "GitHub"
     weight = 1
-    url  = "/posts/"
+    url  = "https://github.com/sethoak"
 [[menu.main]]
-    name = "About"
+    name = "LinkedIn"
     weight = 2
-    url = "/about/"
+    url = "https://www.linkedin.com/in/seth-oakley-864b6888/"
