@@ -23,7 +23,7 @@ disqusShortname = "sethoak"
     favicon_32 = "favicon-32x32.png"
     favicon_16 = "favicon-16x16.png"
 
-    footercontent = ".Net | C## | JS | CMS | UI/UX | ADA | Adobe Suite"
+    footercontent = ".Net | C# | JS | CMS | UI/UX | ADA | Adobe Suite"
 
     hidecredits = true
     hidecopyright = false
